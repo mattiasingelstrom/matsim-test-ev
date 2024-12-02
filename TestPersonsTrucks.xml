@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE population SYSTEM "http://www.matsim.org/files/dtd/population_v6.dtd">
+
+<population>
+
+
+
+<!-- ====================================================================== -->
+
+	<person id="711400_828721_104_e_0">
+		<attributes>
+			<attribute name="vehicles" class="org.matsim.vehicles.PersonVehicles">{"car":"711400_828721_104_e_0_car","truck":"711400_828721_104_e_0_truck"}</attribute>
+		</attributes>
+		<plan selected="yes">
+			<activity type="freight" x="665498.5915828887" y="6600721.058093356" end_time="00:03:27" >
+			</activity>
+			<leg mode="truck">
+				<attributes>
+					<attribute name="vehicleType" class="java.lang.String">104</attribute>
+				</attributes>
+			</leg>
+			<activity type="freight" x="382531.5836731683" y="6137480.139821266" >
+			</activity>
+		</plan>
+
+	</person>
+
+<!-- ====================================================================== -->
+
+<!-- ====================================================================== -->
+
+	<person id="718000_848021_105_e_4">
+		<attributes>
+			<attribute name="vehicles" class="org.matsim.vehicles.PersonVehicles">{"car":"718000_848021_105_e_4_car","truck":"718000_848021_105_e_4_truck"}</attribute>
+		</attributes>
+		<plan selected="yes">
+			<activity type="freight" x="674750.2446137194" y="6579836.717690022" end_time="06:36:05" >
+			</activity>
+			<leg mode="truck">
+				<attributes>
+					<attribute name="vehicleType" class="java.lang.String">105</attribute>
+				</attributes>
+			</leg>
+			<activity type="freight" x="312543.0651733505" y="6398423.468255587" >
+			</activity>
+		</plan>
+
+	</person>
+
+
+
+<!-- ====================================================================== -->
+
+	<person id="731900_948200_105_e_1">
+		<attributes>
+			<attribute name="vehicles" class="org.matsim.vehicles.PersonVehicles">{"car":"731900_948200_105_e_1_car","truck":"731900_948200_105_e_1_truck"}</attribute>
+		</attributes>
+		<plan selected="yes">
+			<activity type="freight" x="633021.2381408389" y="6722301.426663608" end_time="04:04:26" >
+			</activity>
+			<leg mode="truck">
+				<attributes>
+					<attribute name="vehicleType" class="java.lang.String">105</attribute>
+				</attributes>
+			</leg>
+			<activity type="freight" x="794717.4886672654" y="7200161.332449381" >
+			</activity>
+		</plan>
+
+	</person>
+
+<!-- ====================================================================== -->
+
+	<person id="733100_848400_103_e_0">
+		<attributes>
+			<attribute name="vehicles" class="org.matsim.vehicles.PersonVehicles">{"car":"733100_848400_103_e_0_car","truck":"733100_848400_103_e_0_truck"}</attribute>
+		</attributes>
+		<plan selected="yes">
+			<activity type="freight" x="608825.2382760724" y="6657020.022348945" end_time="07:10:02" >
+			</activity>
+			<leg mode="truck">
+				<attributes>
+					<attribute name="vehicleType" class="java.lang.String">103</attribute>
+				</attributes>
+			</leg>
+			<activity type="freight" x="291228.82372446725" y="6469256.574750975" >
+			</activity>
+		</plan>
+
+	</person>
+
+
+	<person id="848031_718100_104_e_0">
+		<attributes>
+			<attribute name="vehicles" class="org.matsim.vehicles.PersonVehicles">{"car":"848031_718100_104_e_0_car","truck":"848031_718100_104_e_0_truck"}</attribute>
+		</attributes>
+		<plan selected="yes">
+			<activity type="freight" x="314715.53447325114" y="6399788.556490841" end_time="08:18:16" >
+			</activity>
+			<leg mode="truck">
+				<attributes>
+					<attribute name="vehicleType" class="java.lang.String">104</attribute>
+				</attributes>
+			</leg>
+			<activity type="freight" x="650975.679380325" y="6561552.203807677" >
+			</activity>
+		</plan>
+
+	</person>
+
+<!-- ====================================================================== -->
+
+	<person id="961100_848000_104_e_2">
+		<attributes>
+			<attribute name="vehicles" class="org.matsim.vehicles.PersonVehicles">{"car":"961100_848000_104_e_2_car","truck":"961100_848000_104_e_2_truck"}</attribute>
+		</attributes>
+		<plan selected="yes">
+			<activity type="freight" x="60829.27599536542" y="6802408.136633775" end_time="10:37:02" >
+			</activity>
+			<leg mode="truck">
+				<attributes>
+					<attribute name="vehicleType" class="java.lang.String">104</attribute>
+				</attributes>
+			</leg>
+			<activity type="freight" x="313049.2423258386" y="6399558.836148518" >
+			</activity>
+		</plan>
+
+	</person>
+
+
+<!-- ====================================================================== -->
+
+</population>

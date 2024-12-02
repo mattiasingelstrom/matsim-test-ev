@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vehicleDefinitions xmlns="http://www.matsim.org/files/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.matsim.org/files/dtd http://www.matsim.org/files/dtd/vehicleDefinitions_v2.0.xsd">
+
+	<vehicleType id="SUVCar">
+
+		<description>SUVCar</description>
+		<capacity seats="0" standingRoomInPersons="0">
+
+		</capacity>
+		<length meter="4.5"/>
+		<width meter="2.0"/>
+		<maximumVelocity meterPerSecond="30.555555555555554"/>
+		<engineInformation>
+			<attributes>
+				<attribute name="HbefaTechnology" class="java.lang.String">electricity</attribute>
+				<attribute name="chargerTypes" class="java.util.ImmutableCollections$List12">["fast"]</attribute>
+				<attribute name="energyCapacityInKWhOrLiters" class="java.lang.Double">100.0</attribute>
+			</attributes>
+		</engineInformation>
+		<costInformation>
+
+		</costInformation>
+		<passengerCarEquivalents pce="1.0"/>
+		<networkMode networkMode="car"/>
+		<flowEfficiencyFactor factor="1.0"/>
+	</vehicleType>
+
+	<vehicleType id="Truck_101">
+
+		<description>Truck_101</description>
+		<capacity seats="0" standingRoomInPersons="0">
+
+		</capacity>
+		<length meter="25.25"/>
+		<width meter="4.0"/>
+		<maximumVelocity meterPerSecond="24.72222222222222"/>
+		<engineInformation>
+			<attributes>
+				<attribute name="HbefaTechnology" class="java.lang.String">electricity</attribute>
+				<attribute name="chargerTypes" class="java.util.ImmutableCollections$List12">["truck"]</attribute>
+				<attribute name="energyCapacityInKWhOrLiters" class="java.lang.Double">100.0</attribute>
+			</attributes>
+		</engineInformation>
+		<costInformation>
+
+		</costInformation>
+		<passengerCarEquivalents pce="1.0"/>
+		<networkMode networkMode="truck"/>
+		<flowEfficiencyFactor factor="1.0"/>
+	</vehicleType>
+
+	<vehicleType id="Truck_102">
+
+		<description>Truck_102</description>
+		<capacity seats="0" standingRoomInPersons="0">
+
+		</capacity>
+		<length meter="25.25"/>
+		<width meter="4.0"/>
+		<maximumVelocity meterPerSecond="24.72222222222222"/>
+		<engineInformation>
+			<attributes>
+				<attribute name="HbefaTechnology" class="java.lang.String">electricity</attribute>
+				<attribute name="chargerTypes" class="java.util.ImmutableCollections$List12">["truck"]</attribute>
+				<attribute name="energyCapacityInKWhOrLiters" class="java.lang.Double">200.0</attribute>
+			</attributes>
+		</engineInformation>
+		<costInformation>
+
+		</costInformation>
+		<passengerCarEquivalents pce="1.0"/>
+		<networkMode networkMode="truck"/>
+		<flowEfficiencyFactor factor="1.0"/>
+	</vehicleType>
+
+	<vehicleType id="Truck_103">
+
+		<description>Truck_103</description>
+		<capacity seats="0" standingRoomInPersons="0">
+
+		</capacity>
+		<length meter="25.25"/>
+		<width meter="4.0"/>
+		<maximumVelocity meterPerSecond="24.72222222222222"/>
+		<engineInformation>
+			<attributes>
+				<attribute name="HbefaTechnology" class="java.lang.String">electricity</attribute>
+				<attribute name="chargerTypes" class="java.util.ImmutableCollections$List12">["truck"]</attribute>
+				<attribute name="energyCapacityInKWhOrLiters" class="java.lang.Double">300.0</attribute>
+			</attributes>
+		</engineInformation>
+		<costInformation>
+
+		</costInformation>
+		<passengerCarEquivalents pce="1.0"/>
+		<networkMode networkMode="truck"/>
+		<flowEfficiencyFactor factor="1.0"/>
+	</vehicleType>
+
+	<vehicleType id="Truck_104">
+
+		<description>Truck_104</description>
+		<capacity seats="0" standingRoomInPersons="0">
+
+		</capacity>
+		<length meter="25.25"/>
+		<width meter="4.0"/>
+		<maximumVelocity meterPerSecond="24.72222222222222"/>
+		<engineInformation>
+			<attributes>
+				<attribute name="HbefaTechnology" class="java.lang.String">electricity</attribute>
+				<attribute name="chargerTypes" class="java.util.ImmutableCollections$List12">["truck"]</attribute>
+				<attribute name="energyCapacityInKWhOrLiters" class="java.lang.Double">400.0</attribute>
+			</attributes>
+		</engineInformation>
+		<costInformation>
+
+		</costInformation>
+		<passengerCarEquivalents pce="1.0"/>
+		<networkMode networkMode="truck"/>
+		<flowEfficiencyFactor factor="1.0"/>
+	</vehicleType>
+
+	<vehicleType id="Truck_105">
+
+		<description>Truck_105</description>
+		<capacity seats="0" standingRoomInPersons="0">
+
+		</capacity>
+		<length meter="25.25"/>
+		<width meter="4.0"/>
+		<maximumVelocity meterPerSecond="24.72222222222222"/>
+		<engineInformation>
+			<attributes>
+				<attribute name="HbefaTechnology" class="java.lang.String">electricity</attribute>
+				<attribute name="chargerTypes" class="java.util.ImmutableCollections$List12">["truck"]</attribute>
+				<attribute name="energyCapacityInKWhOrLiters" class="java.lang.Double">500.0</attribute>
+			</attributes>
+		</engineInformation>
+		<costInformation>
+
+		</costInformation>
+		<passengerCarEquivalents pce="1.0"/>
+		<networkMode networkMode="truck"/>
+		<flowEfficiencyFactor factor="1.0"/>
+	</vehicleType>
+
+	<vehicleType id="Truck_106">
+
+		<description>Truck_106</description>
+		<capacity seats="0" standingRoomInPersons="0">
+
+		</capacity>
+		<length meter="25.25"/>
+		<width meter="4.0"/>
+		<maximumVelocity meterPerSecond="24.72222222222222"/>
+		<engineInformation>
+			<attributes>
+				<attribute name="HbefaTechnology" class="java.lang.String">electricity</attribute>
+				<attribute name="chargerTypes" class="java.util.ImmutableCollections$List12">["truck"]</attribute>
+				<attribute name="energyCapacityInKWhOrLiters" class="java.lang.Double">600.0</attribute>
+			</attributes>
+		</engineInformation>
+		<costInformation>
+
+		</costInformation>
+		<passengerCarEquivalents pce="1.0"/>
+		<networkMode networkMode="truck"/>
+		<flowEfficiencyFactor factor="1.0"/>
+	</vehicleType>
+
+	<vehicleType id="mediumCar">
+
+		<description>mediumCar</description>
+		<capacity seats="0" standingRoomInPersons="0">
+
+		</capacity>
+		<length meter="4.5"/>
+		<width meter="2.0"/>
+		<maximumVelocity meterPerSecond="30.555555555555554"/>
+		<engineInformation>
+			<attributes>
+				<attribute name="HbefaTechnology" class="java.lang.String">electricity</attribute>
+				<attribute name="chargerTypes" class="java.util.ImmutableCollections$List12">["fast"]</attribute>
+				<attribute name="energyCapacityInKWhOrLiters" class="java.lang.Double">80.0</attribute>
+			</attributes>
+		</engineInformation>
+		<costInformation>
+
+		</costInformation>
+		<passengerCarEquivalents pce="1.0"/>
+		<networkMode networkMode="car"/>
+		<flowEfficiencyFactor factor="1.0"/>
+	</vehicleType>
+
+	<vehicleType id="smallCar">
+
+		<description>smallCar</description>
+		<capacity seats="0" standingRoomInPersons="0">
+
+		</capacity>
+		<length meter="4.5"/>
+		<width meter="2.0"/>
+		<maximumVelocity meterPerSecond="30.555555555555554"/>
+		<engineInformation>
+			<attributes>
+				<attribute name="HbefaTechnology" class="java.lang.String">electricity</attribute>
+				<attribute name="chargerTypes" class="java.util.ImmutableCollections$List12">["fast"]</attribute>
+				<attribute name="energyCapacityInKWhOrLiters" class="java.lang.Double">60.0</attribute>
+			</attributes>
+		</engineInformation>
+		<costInformation>
+
+		</costInformation>
+		<passengerCarEquivalents pce="1.0"/>
+		<networkMode networkMode="car"/>
+		<flowEfficiencyFactor factor="1.0"/>
+	</vehicleType>
+
+	<vehicle id="711400_828721_104_e_0_truck" type="Truck_104">
+		<attributes>
+			<attribute name="initialSoc" class="java.lang.Double">1.0</attribute>
+		</attributes>
+	</vehicle>
+	
+	<vehicle id="718000_848021_105_e_4_truck" type="Truck_105">
+		<attributes>
+			<attribute name="initialSoc" class="java.lang.Double">1.0</attribute>
+		</attributes>
+	</vehicle>
+	<vehicle id="731900_948200_105_e_1_truck" type="Truck_105">
+		<attributes>
+			<attribute name="initialSoc" class="java.lang.Double">1.0</attribute>
+		</attributes>
+	</vehicle>
+	<vehicle id="733100_848400_103_e_0_truck" type="Truck_103">
+		<attributes>
+			<attribute name="initialSoc" class="java.lang.Double">1.0</attribute>
+		</attributes>
+	</vehicle>
+	<vehicle id="848031_718100_104_e_0_truck" type="Truck_104">
+		<attributes>
+			<attribute name="initialSoc" class="java.lang.Double">1.0</attribute>
+		</attributes>
+	</vehicle>
+	<vehicle id="961100_848000_104_e_2_truck" type="Truck_104">
+		<attributes>
+			<attribute name="initialSoc" class="java.lang.Double">1.0</attribute>
+		</attributes>
+	</vehicle>
+
+</vehicleDefinitions>
